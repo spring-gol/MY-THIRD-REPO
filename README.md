@@ -15,7 +15,7 @@
 </head>
 <body>
   <h1>To-Do List</h1>
-  <input id="taskInput" type="text" placeholder="Enter tas...">
+  <input id="taskInput" type="text" placeholder="Enter task...">
   <button id="addBtn">Add</button>
   <ul id="taskList"></ul>
   <script src="script.js"></script>
